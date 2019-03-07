@@ -1,1 +1,3 @@
 line1
+aabbccdd
+This is a new addition
